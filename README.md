@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Summary of Assignments
 
-You can use the [editor on GitHub](https://github.com/Charlie1899/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here will be a summary of the assignments uploaded here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+### f17magd150lab07_Cruz
 
-### Markdown
+This code creates a ferris wheel that spins with mouse movement and a moon that rotates and transforms, bats also fly around the mouse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ferris wheel](https://github.com/Charlie1899/MAGD-150-Assignments/tree/gh-pages/f17magd150lab07_Cruz)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+```
+### Space
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Charlie1899/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This code creates picture of a rocketship in space
 
-### Support or Contact
+[Space](https://github.com/Charlie1899/MAGD-150-Assignments/tree/gh-pages/Space)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+
+```
+### ocean_of_pizza
+
+This code has pizza boats sailing and pizza fish swimming, if the mouse is clicked the pepperoni turns into sausage
+
+[ocean of pizza](https://github.com/Charlie1899/MAGD-150-Assignments/tree/gh-pages/ocean_of_pizza)
+
+```
+
+```
+### f17_magd150_lab08_Cruz
+
+Creates a movie poster with text scrolling by and saves as a PDF
+
+[poster](https://github.com/Charlie1899/MAGD-150-Assignments/tree/gh-pages/f17_magd150_lab08_Cruz)
+
+```
+
+```
+Assignment[five].pde
+
+Opens a turned off tv with two buttons, one will bring up an error screen when clicked, the other will bring up moving pizza boats and fish when clicked
+
+[TV](https://github.com/Charlie1899/MAGD-150-Assignments/blob/gh-pages/Assignment%5Bfive%5D.pde)
+
+```
